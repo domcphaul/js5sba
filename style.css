@@ -1,0 +1,15 @@
+body {background-image: url(https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131__480.jpg)}
+
+
+#inputBox {
+    text-align: center;
+    padding: 3%;
+    font-style: oblique;
+}
+
+#inputSection {
+    padding: 10%;
+    font-size: larger;
+}
+
+
